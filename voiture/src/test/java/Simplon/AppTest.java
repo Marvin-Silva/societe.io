@@ -1,4 +1,4 @@
-package Marvin-Silva;
+package Simplon;
 
 import org.junit.jupiter.api.Test;
 

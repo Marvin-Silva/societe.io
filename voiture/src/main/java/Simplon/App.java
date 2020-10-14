@@ -1,11 +1,10 @@
-package Marvin-Silva;
+package Simplon;
 
 /**
  * Hello world!
  */
 public final class App {
     private App() {
-        System.out.print("Hello World");
     }
 
     /**
